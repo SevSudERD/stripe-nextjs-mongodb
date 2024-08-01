@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 import { Button } from "./ui/button";
 import { buttonVariants } from "./ui/button";
